@@ -1,5 +1,5 @@
 # LEARNING LUA
-This documentation is MOSTLY just the contents of https://www.lua.org/
+This documentation is MOSTLY just the contents of "Programming in Lua 4th edition" and also  https://www.lua.org/
 ## The following is a list of reserved words in lua:
 
 and       break     do        else      elseif

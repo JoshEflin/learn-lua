@@ -1,5 +1,5 @@
 -- defines a factorial
-function fact(n)
+local function fact(n)
   if n == 0 then
     return 1
   else
